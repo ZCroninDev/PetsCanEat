@@ -1,9 +1,9 @@
 # PetsCanEat
-Visit [Pets Can Eat](https://PetsCanEat.com)(http://www.petscaneat.com/) to try it out!
+Visit [Pets Can Eat](https://PetsCanEat.com) to try it out!
 
 ## Description
 
-[Pets Can Eat](https://PetsCanEat.com) is a searchable database of foods and their safety profile for dogs.
+Pets Can Eat is a searchable database of foods and their safety profile for dogs.
 
 ## Getting Started
 
