@@ -1,5 +1,5 @@
 # PetsCanEat
-Visit [Pets Can Eat](https://PetsCanEat.com) to try it out!
+Visit [[Pets Can Eat](https://PetsCanEat.com)](http://www.petscaneat.com/) to try it out!
 
 ## Description
 
